@@ -4,7 +4,8 @@
 
 <div align="center">
   <h4>🎨 All you need to know is in this image</h4>
-  <img src="https://i.imgur.com/W6hZYDD.png" alt="All you need to know is in this image text" width="1092">
+  <img src="[All you need to know is in this image text](https://raw.githubusercontent.com/dimitriosGX/test_readme/0f149b98107fbe289c9661dd8adaec7762f6daf5/bicubic_demo.png
+)" alt="All you need to know is in this image text" width="1092">
 </div>
 
 <p> <video src="https://github.com/user-attachments/assets/f64b4659-299f-4ef8-b9f2-a3079c4c1905" alt="Open Edison Announcement Video" width="520">Open Edison Announcement Video</video>
